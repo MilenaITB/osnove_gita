@@ -1,1 +1,0 @@
-# osnove_gita
