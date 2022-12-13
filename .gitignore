@@ -1,1 +1,15 @@
-.idea
+.idea/
+
+*2022*/
+*.pdf
+logs_*
+library/*.zip
+
+
+
+*.users
+*.db
+*.properties
+*.keys
+*.pem
+*README.md
