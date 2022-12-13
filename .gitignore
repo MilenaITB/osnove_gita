@@ -13,3 +13,5 @@ library/*.zip
 *.keys
 *.pem
 *README.md
+
+bin/
